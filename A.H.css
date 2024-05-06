@@ -1,0 +1,71 @@
+.maindiv{
+    display: flex;
+    border-color: black;
+    border-bottom-style:solid;
+}
+
+
+
+.logomain{
+      width: auto;
+      height: 80px;
+}
+
+.logodiv{
+    width: 60%;
+    height: 110px;
+    padding-left: 80px;
+    padding-top: 30px;
+}
+
+.iconsdiv{
+    width: 35%;
+    height: 110px;
+    padding-top: 30px;
+}
+
+.fa-phone,.fa-envelope,.fa-location-dot{
+    padding-bottom: 10px;
+    color: red;
+}
+.fa-globe{
+    color: red;
+}
+
+.maindiv2{
+    display: flex;
+}
+
+
+.a{padding-top: 3px;}
+p{padding: 0 40px; font-family: monospace;font-weight: bold;}
+span{padding-left: 49px;padding-right: 10px;}
+.span2{padding-left: 30px;}
+.span4{padding-left: 61px;}
+
+
+.maindiv3{
+         display: flex;
+         margin-left: 10px;
+}
+.b{width:54%;height: auto;}
+.details{background-color: red;font-size: 15px;color: white;padding: 20px 150px;font-family: monospace;}
+.mov{background-color: red;color: white; padding: 0 10; font-family: monospace; font-size: medium;}
+.input2{font-size: larger;}
+
+
+table,tr,th,td{border-style: solid; border-width: 1px;border-color: black;border-collapse: collapse;}
+.CHECKING{background-color: red;color: white;font-family: monospace;padding: 2px 150px;}
+.yn{background-color: red;font-family: monospace;color: white;padding: 0 20px;}
+.LIVING{font-family: monospace;padding: 2px 150px;background-color: rgb(198, 190, 190);font-weight: bold;}
+.items{font-family: monospace;padding-left: 5px;}
+.items2{font-family: monospace;padding-left: 5px;}
+.note{font-family: monospace;padding-left: 20px;font-size: larger;}
+ .c{width: 46%}
+td{padding-left: 17px;}
+.sign{font-family: monospace;background-color: rgb(217, 210, 210);font-weight: bold;padding: 2px 90px;}
+.sign2{font-family: monospace;background-color: rgb(217, 210, 210);font-weight: bold;padding: 2px 79px;}
+.refund{background-color: yellow;}
+
+.lastdiv{border-color: black;border-style: solid;margin-left: 700px;}
+.pp{padding-left: 15px;}
